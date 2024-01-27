@@ -1,1 +1,1 @@
-# DANFlow
+# DANFlow: Depth-wise separable convolution and Attention-based Normalizing Flow
