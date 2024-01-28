@@ -1,6 +1,6 @@
 # KolektorSDD2: Kolektor Surface-Defect Dataset 2
 
-<img src="images/KolektorSDD2.png" width="800" height="480" />
+<img src="images/KolektorSDD2.png"/>
 
 - Website to the dataset: https://www.vicos.si/resources/kolektorsdd2
 

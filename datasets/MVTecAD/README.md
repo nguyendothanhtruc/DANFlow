@@ -1,6 +1,6 @@
 # MVTecAD: MVTEC Anomaly Detection Dataset
 
-<img src="images/MVTecAD.png" width="800" height="480" />
+<img src="images/MVTecAD.png"/>
 
 - Website to the dataset: https://www.mvtec.com/company/research/datasets/mvtec-ad
 

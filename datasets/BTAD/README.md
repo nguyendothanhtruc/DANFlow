@@ -1,6 +1,6 @@
 # BTAD: beanTech Anomaly Detection
 
-<img src="images/BTAD.png" width="800" height="480" />
+<img src="images/BTAD.png"/>
 
 - Website to the dataset: https://avires.dimi.uniud.it/papers/btad/btad.zip (Source: BeanTech srl)
 
