@@ -50,8 +50,6 @@ performers are marked in **bold**.
 
 _Second-best is displayed in <ins>underlined</ins>. In cases where PRO scores are missing, a "-" will be displayed_
 
-<sub>
-
 | <font color="00A36C">**MVTecAD**</font> | **PatchCore**                  | **PaDiM**   | **CFlow**                           | **MSFlow**                          | **MemSeg**             | **FastFlow**          | <font color="ff7518">**Ours**</font> |
 |-----------------------------------------|--------------------------------|-------------|-------------------------------------|-------------------------------------|------------------------|-----------------------|--------------------------------------|
 | carpet                                  | 99.0 / 96.6                    | 99.1 / 96.2 | <ins>99.25</ins> / <ins>97.70</ins> | <b>99.4 / 99.6</b>                  | 99.2 / \_              | <b>99.4 / \_</b>      | <b>99.4 / 99.6</b>                   |
@@ -73,7 +71,6 @@ _Second-best is displayed in <ins>underlined</ins>. In cases where PRO scores ar
 | **Texture**                             | 97.5 / 93.7                    | 96.9 / 93.1 | 98.5 / 96.7                         | 98.8 / <ins>98.1</ins>              | <ins>99.1 </ins> / \_  | 98.1 / \_             | <b>99.27 / 99.04</b>                 |
 | **Object**                              | 98.4 / 93.3                    | 97.8 / 91.6 | 98.7 / 93.6                         | <ins>98.8</ins> / <ins>96.6</ins>   | 98.7 / \_              | 98.6 / \_             | <b>99.00 / 98.24</b>                 |
 | **Mean**                                | 98.1 / 93.5                    | 97.5 / 92.1 | 98.6 / 94.6                         | <ins>98.8</ins> / <ins>97.1</ins>   | <ins>98.84 </ins> / \_ | 98.5 / \_             | <b>99.09 / 98.51</b>                 | 
-</sub>
 
 #### Experiments on BTAD dataset (AUROC)
 
